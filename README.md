@@ -149,6 +149,7 @@ Here are some repos that use cibuildwheel.
 - [xmlstarlet](https://github.com/dimitern/xmlstarlet) - Python 3.6+ CFFI bindings with true MSVC build and GitHub Actions.
 - [bx-python](https://github.com/bxlab/bx-python) - A library that includes Cython extensions, built on Travis CI for Mac and Linux.
 - [coverage.py](https://github.com/nedbat/coveragepy) - The coverage tool for Python.
+- [uvloop](https://github.com/MagicStack/uvloop) - A library that includes Cython extensions, built on Github Actions for Mac and Linux.
 
 > Add your repo here! Send a PR.
 >
